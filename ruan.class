@@ -2,7 +2,7 @@ class ruan {
 
 		public static void main(String[] args){
 		   System.out.println("This is the first program in here");
-
+                    System.out.println("Second line added to the project");
 }
 }
 
